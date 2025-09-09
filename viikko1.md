@@ -8,13 +8,14 @@
     - kiva paikka asua ja opiskella
 
 2. Mistä tykkään
+
     [Ihan parasta klikkaamalla tästä](https://pantera.com/)
 
 3. Loppupätkässä ihan vain diipadaapaa ja syntaxien treenausta
 
     ![Tästä näet hienon kuvan töppösistä](https://net.centria.fi/wp-content/uploads/2025/04/cropped-IMG_3793-e1743586285542-700x394.jpg) 
 
-4. Neljäs asia 
+4. Neljäs asia - hieno taulukko
 
   
     | Otsikko    | Otsikko |
@@ -26,6 +27,7 @@
 
 ### Tämä on vieläkin alempi otsikko
 
+Pelkkää koodia alle!
 ```
 {
   "firstName": "Aku",
