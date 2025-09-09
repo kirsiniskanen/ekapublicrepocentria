@@ -16,8 +16,7 @@
 
 4. Neljäs asia 
 
-    |    Hieno taulukko    |
-    |----------------------|
+  
     | Otsikko    | Otsikko |
     |------------|---------|
     | XXX        | xxxx    |
